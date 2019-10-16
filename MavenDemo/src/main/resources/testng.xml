@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MAven Suite running 3 test class">
+	<test name="Maven Test">
+		<packages>
+			<package name="test.*">
+
+			</package>
+
+		</packages>
+	</test>
+
+
+
+
+</suite> <!-- LearningTestNG -->

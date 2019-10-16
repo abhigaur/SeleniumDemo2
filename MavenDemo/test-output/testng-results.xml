@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MAven Suite running 3 test class" duration-ms="306" started-at="2019-10-15T18:12:46Z" finished-at="2019-10-15T18:12:47Z">
+    <groups>
+    </groups>
+    <test name="Maven Test" duration-ms="306" started-at="2019-10-15T18:12:46Z" finished-at="2019-10-15T18:12:47Z">
+      <class name="test.DemoClass2Test">
+        <test-method status="PASS" signature="SubstractTest()[pri:0, instance:test.DemoClass2Test@cb5822]" name="SubstractTest" duration-ms="5" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubstractTest -->
+        <test-method status="PASS" signature="divTest()[pri:0, instance:test.DemoClass2Test@cb5822]" name="divTest" duration-ms="0" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divTest -->
+        <test-method status="PASS" signature="multiTest()[pri:0, instance:test.DemoClass2Test@cb5822]" name="multiTest" duration-ms="25" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiTest -->
+        <test-method status="PASS" signature="sumTest()[pri:0, instance:test.DemoClass2Test@cb5822]" name="sumTest" duration-ms="10" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest -->
+      </class> <!-- test.DemoClass2Test -->
+      <class name="test.DemoClass1Test">
+        <test-method status="PASS" signature="SubstractTest()[pri:0, instance:test.DemoClass1Test@55f3ddb1]" name="SubstractTest" duration-ms="41" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubstractTest -->
+        <test-method status="PASS" signature="divTest()[pri:0, instance:test.DemoClass1Test@55f3ddb1]" name="divTest" duration-ms="5" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divTest -->
+        <test-method status="PASS" signature="multiTest()[pri:0, instance:test.DemoClass1Test@55f3ddb1]" name="multiTest" duration-ms="10" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiTest -->
+        <test-method status="PASS" signature="sumTest()[pri:0, instance:test.DemoClass1Test@55f3ddb1]" name="sumTest" duration-ms="0" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest -->
+      </class> <!-- test.DemoClass1Test -->
+      <class name="test.DemoClassTest">
+        <test-method status="PASS" signature="SubstractTest()[pri:0, instance:test.DemoClassTest@4b9e13df]" name="SubstractTest" duration-ms="5" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubstractTest -->
+        <test-method status="PASS" signature="divTest()[pri:0, instance:test.DemoClassTest@4b9e13df]" name="divTest" duration-ms="5" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divTest -->
+        <test-method status="PASS" signature="multiTest()[pri:0, instance:test.DemoClassTest@4b9e13df]" name="multiTest" duration-ms="15" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiTest -->
+        <test-method status="PASS" signature="sumTest()[pri:0, instance:test.DemoClassTest@4b9e13df]" name="sumTest" duration-ms="10" started-at="2019-10-15T23:42:47Z" finished-at="2019-10-15T23:42:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumTest -->
+      </class> <!-- test.DemoClassTest -->
+    </test> <!-- Maven Test -->
+  </suite> <!-- MAven Suite running 3 test class -->
+</testng-results>
