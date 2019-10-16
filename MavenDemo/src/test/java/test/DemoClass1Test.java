@@ -1,5 +1,7 @@
 package test;
 
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -8,6 +10,9 @@ public class DemoClass1Test {
 	public void sumTest()
 	{
 		System.out.println("Sum");
+		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"//src//main//resources//executables//chromedriver.exe");
+		 WebDriver driver = new ChromeDriver();
+		 driver.get("http://toolsqa.com/automation-practice-form/");
 	}
 	@Test
 	public void SubstractTest()
